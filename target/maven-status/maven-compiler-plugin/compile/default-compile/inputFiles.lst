@@ -1,0 +1,10 @@
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/controller/init.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/model/Pedidos.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/model/Clientes.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/model/Produtos.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/dao/PedidoDAO.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/services/RedisService.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/model/PedidoProduto.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/PessoalApplication.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/dao/ClienteDAO.java
+/Users/rebeca.ferreira/Desktop/Projeto-teste/pessoal/src/main/java/com/br/rebecacorp/pessoal/dao/ProdutoDAO.java
